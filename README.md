@@ -1,2 +1,2 @@
 # tools
-This repository will contain scripts that can be used for malicous activities.  I'm not accountable in any way for scripts provided.
+This repository will contain scripts that can be used for Automated Recon on website aswell as Automated Malware Analysis.
